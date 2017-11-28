@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>f66b14e1c611227b0166c3a0df4046ff</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="core_company">
+    <core_company action="INSERT_OR_UPDATE">
+        <apple_icon/>
+        <banner_image/>
+        <banner_image_light/>
+        <banner_text>One2Improve</banner_text>
+        <city/>
+        <contact/>
+        <country>USA</country>
+        <customer>false</customer>
+        <discount/>
+        <fax_phone/>
+        <fiscal_year/>
+        <lat_long_error/>
+        <latitude/>
+        <longitude/>
+        <manufacturer>true</manufacturer>
+        <market_cap>0</market_cap>
+        <name>HEINEKEN</name>
+        <notes/>
+        <num_employees/>
+        <parent/>
+        <phone/>
+        <primary>true</primary>
+        <profits>0</profits>
+        <publicly_traded>false</publicly_traded>
+        <rank_tier/>
+        <revenue_per_year>0</revenue_per_year>
+        <sso_source/>
+        <state/>
+        <stock_price/>
+        <stock_symbol/>
+        <street/>
+        <sys_class_name>core_company</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2006-03-14 01:42:26</sys_created_on>
+        <sys_id>f66b14e1c611227b0166c3a0df4046ff</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_updated_by>rob</sys_updated_by>
+        <sys_updated_on>2017-06-30 13:31:20</sys_updated_on>
+        <theme/>
+        <vendor>false</vendor>
+        <vendor_manager/>
+        <vendor_type/>
+        <website/>
+        <zip/>
+    </core_company>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#b0c6b5</average_image_color>
+        <chunk_size_bytes/>
+        <compressed>true</compressed>
+        <content_type>image/gif</content_type>
+        <file_name>banner_image</file_name>
+        <image_height>44</image_height>
+        <image_width>153</image_width>
+        <size_bytes>4219</size_bytes>
+        <size_compressed>3010</size_compressed>
+        <sys_created_by>rob</sys_created_by>
+        <sys_created_on>2017-08-02 20:13:45</sys_created_on>
+        <sys_id>946deddedb5c4700ca7ff72eaf96197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rob</sys_updated_by>
+        <sys_updated_on>2017-08-02 20:13:45</sys_updated_on>
+        <table_name>ZZ_YYcore_company</table_name>
+        <table_sys_id>f66b14e1c611227b0166c3a0df4046ff</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="banner_image" sys_id="946deddedb5c4700ca7ff72eaf96197c">946deddedb5c4700ca7ff72eaf96197c</sys_attachment>
+        <sys_created_by>rob</sys_created_by>
+        <sys_created_on>2017-08-02 20:13:45</sys_created_on>
+        <sys_id>986deddedb5c4700ca7ff72eaf96197c</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3736</length>
+        <position>1</position>
+        <sys_attachment display_value="banner_image" sys_id="946deddedb5c4700ca7ff72eaf96197c">946deddedb5c4700ca7ff72eaf96197c</sys_attachment>
+        <sys_created_by>rob</sys_created_by>
+        <sys_created_on>2017-08-02 20:13:45</sys_created_on>
+        <sys_id>5c6deddedb5c4700ca7ff72eaf96197c</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>CSAS/bMWG7SYnO7NjvJAElbdkhTaWeNJ1SMHV1cUiLv19wUNCyp0I+SzpXIZhgSVuPOaHi/pEjC9W6wOzhXRp3drYT3SfjyoHXUbOl+LKZpy4WDKsbsBRCprq8tDA9O5er4rq2gDu+utd7hUMmKLWHtO1pc5LRpY7tpybX/VqLUbo1yYY2/4wmCsYhrZnrW36kap5anKwOn2oUeK9leywlzKzlatIMfePD6r7NiaU1vprX7dJ4vGquM9fCgAuP0bsttAhXsQAAA=</data>
+        <length>268</length>
+        <position>2</position>
+        <sys_attachment display_value="banner_image" sys_id="946deddedb5c4700ca7ff72eaf96197c">946deddedb5c4700ca7ff72eaf96197c</sys_attachment>
+        <sys_created_by>rob</sys_created_by>
+        <sys_created_on>2017-08-02 20:13:45</sys_created_on>
+        <sys_id>dc6deddedb5c4700ca7ff72eaf96197c</sys_id>
+    </sys_attachment_doc>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chris.hann</sys_created_by>
+        <sys_created_on>2017-11-27 18:23:30</sys_created_on>
+        <sys_id>8226f7f3db2e4b0085895845dc9619e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HEINEKEN</sys_name>
+        <sys_package display_value="Manufacturing CMDB" source="x_pisn_mnfct_cmdb">0e9fbeabdba24b0085895845dc961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing CMDB">0e9fbeabdba24b0085895845dc961932</sys_scope>
+        <sys_update_name>sys_metadata_link_8226f7f3db2e4b0085895845dc9619e1</sys_update_name>
+        <sys_updated_by>chris.hann</sys_updated_by>
+        <sys_updated_on>2017-11-27 18:23:30</sys_updated_on>
+        <tablename>core_company</tablename>
+    </sys_metadata_link>
+</record_update>

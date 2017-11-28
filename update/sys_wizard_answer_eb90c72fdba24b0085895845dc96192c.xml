@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Manufacturing Equipment</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Manufacturing Equipment</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">e8d3203adb1203005c025a6adc9619c4</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>chris.hann</sys_created_by>
+        <sys_created_on>2017-11-26 19:51:07</sys_created_on>
+        <sys_id>eb90c72fdba24b0085895845dc96192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manufacturing Equipment</sys_name>
+        <sys_package display_value="Manufacturing CMDB" source="x_pisn_mnfct_cmdb">0e9fbeabdba24b0085895845dc961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing CMDB">0e9fbeabdba24b0085895845dc961932</sys_scope>
+        <sys_update_name>sys_wizard_answer_eb90c72fdba24b0085895845dc96192c</sys_update_name>
+        <sys_updated_by>chris.hann</sys_updated_by>
+        <sys_updated_on>2017-11-26 19:51:07</sys_updated_on>
+        <table/>
+        <target_url>x_pisn_mnfct_cmdb_equipment.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

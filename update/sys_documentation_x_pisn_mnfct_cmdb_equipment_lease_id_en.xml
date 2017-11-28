@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="lease_id" label="Lease contract" language="en" table="x_pisn_mnfct_cmdb_equipment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>lease_id</element>
+            <help/>
+            <hint/>
+            <label>Lease contract</label>
+            <language>en</language>
+            <name>x_pisn_mnfct_cmdb_equipment</name>
+            <plural>Lease contracts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>chris.hann</sys_created_by>
+            <sys_created_on>2017-11-26 19:51:11</sys_created_on>
+            <sys_id>a4a00b2fdba24b0085895845dc961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Lease contract</sys_name>
+            <sys_package display_value="Manufacturing CMDB" source="x_pisn_mnfct_cmdb">0e9fbeabdba24b0085895845dc961932</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Manufacturing CMDB">0e9fbeabdba24b0085895845dc961932</sys_scope>
+            <sys_update_name>sys_documentation_x_pisn_mnfct_cmdb_equipment_lease_id_en</sys_update_name>
+            <sys_updated_by>chris.hann</sys_updated_by>
+            <sys_updated_on>2017-11-26 19:51:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

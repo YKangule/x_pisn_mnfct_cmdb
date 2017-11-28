@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>f796f58edbe372008ec179feaf96195e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="core_company">
+    <core_company action="INSERT_OR_UPDATE">
+        <apple_icon/>
+        <banner_image/>
+        <banner_image_light/>
+        <banner_text/>
+        <city/>
+        <contact/>
+        <country>USA</country>
+        <customer>true</customer>
+        <discount/>
+        <fax_phone/>
+        <fiscal_year/>
+        <lat_long_error/>
+        <latitude>37.09024</latitude>
+        <longitude>-95.712891</longitude>
+        <manufacturer>false</manufacturer>
+        <market_cap>0</market_cap>
+        <name>Heineken Ceská republika, a.s.</name>
+        <notes/>
+        <num_employees/>
+        <parent/>
+        <phone/>
+        <primary>false</primary>
+        <profits>0</profits>
+        <publicly_traded>false</publicly_traded>
+        <rank_tier/>
+        <revenue_per_year>0</revenue_per_year>
+        <sso_source/>
+        <state/>
+        <stock_price/>
+        <stock_symbol/>
+        <street/>
+        <sys_class_name>core_company</sys_class_name>
+        <sys_created_by>chris.hann</sys_created_by>
+        <sys_created_on>2017-06-25 19:28:35</sys_created_on>
+        <sys_id>f796f58edbe372008ec179feaf96195e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-25 19:28:49</sys_updated_on>
+        <theme/>
+        <vendor>false</vendor>
+        <vendor_manager/>
+        <vendor_type/>
+        <website/>
+        <zip/>
+    </core_company>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chris.hann</sys_created_by>
+        <sys_created_on>2017-11-27 18:23:30</sys_created_on>
+        <sys_id>0e26f7f3db2e4b0085895845dc9619e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Heineken Ceská republika, a.s.</sys_name>
+        <sys_package display_value="Manufacturing CMDB" source="x_pisn_mnfct_cmdb">0e9fbeabdba24b0085895845dc961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing CMDB">0e9fbeabdba24b0085895845dc961932</sys_scope>
+        <sys_update_name>sys_metadata_link_0e26f7f3db2e4b0085895845dc9619e3</sys_update_name>
+        <sys_updated_by>chris.hann</sys_updated_by>
+        <sys_updated_on>2017-11-27 18:23:30</sys_updated_on>
+        <tablename>core_company</tablename>
+    </sys_metadata_link>
+</record_update>
