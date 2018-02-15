@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>2f1621794f5a3100388fa88ca310c7f2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="cmn_location">
+    <cmn_location action="INSERT_OR_UPDATE">
+        <city>Hyderabad</city>
+        <company/>
+        <contact/>
+        <country>India</country>
+        <fax_phone/>
+        <full_name>Apac/India/Hyderabad/18 iLabs Centre, Building 3, Inorbit Mall Road, Madhapur, Hyderabad, Telangana</full_name>
+        <lat_long_error/>
+        <latitude>17.432483</latitude>
+        <longitude>78.388084</longitude>
+        <name>18 iLabs Centre, Building 3, Inorbit Mall Road, Madhapur, Hyderabad, Telangana</name>
+        <parent display_value="Hyderabad">fe2781f5931631003b4bb095e57ffbff</parent>
+        <phone/>
+        <phone_territory/>
+        <state>Telangana</state>
+        <stock_room>false</stock_room>
+        <street>18 iLabs Centre, Building 3, Inorbit Mall Road, Madhapur</street>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-02-18 11:36:26</sys_created_on>
+        <sys_id>2f1621794f5a3100388fa88ca310c7f2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-02-18 11:36:31</sys_updated_on>
+        <time_zone/>
+        <zip>500081</zip>
+    </cmn_location>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>joe.wilmoth@snc</sys_created_by>
+        <sys_created_on>2018-02-07 16:26:59</sys_created_on>
+        <sys_id>c5fd4207db4c5b005c025a6adc961977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>18 iLabs Centre, Building 3, Inorbit Mall Road, Madhapur, Hyderabad, Telangana</sys_name>
+        <sys_package display_value="Manufacturing CMDB" source="x_pisn_mnfct_cmdb">0e9fbeabdba24b0085895845dc961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing CMDB">0e9fbeabdba24b0085895845dc961932</sys_scope>
+        <sys_update_name>sys_metadata_link_c5fd4207db4c5b005c025a6adc961977</sys_update_name>
+        <sys_updated_by>joe.wilmoth@snc</sys_updated_by>
+        <sys_updated_on>2018-02-07 16:26:59</sys_updated_on>
+        <tablename>cmn_location</tablename>
+    </sys_metadata_link>
+</record_update>

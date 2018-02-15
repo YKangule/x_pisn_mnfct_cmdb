@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f48b21db0a0a0ba700645a3f714ca7a2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="cmn_location">
+    <cmn_location action="INSERT_OR_UPDATE">
+        <city>San Diego</city>
+        <company display_value="ACME North America">31bea3d53790200044e0bfc8bcbe5dec</company>
+        <contact/>
+        <country>USA</country>
+        <fax_phone/>
+        <full_name>Americas/North America/California/San Diego/San Diego North Central/6882 Linda Vista Road, San Diego,CA</full_name>
+        <lat_long_error/>
+        <latitude>32.782863</latitude>
+        <longitude>-117.172306</longitude>
+        <name>6882 Linda Vista Road, San Diego,CA</name>
+        <parent display_value="San Diego North Central">f57c5a380a0a0ba70064b0775c0cab7a</parent>
+        <phone/>
+        <phone_territory/>
+        <state>CA</state>
+        <stock_room>false</stock_room>
+        <street>6882 Linda Vista Road, San Diego</street>
+        <sys_created_by>jay.berlin</sys_created_by>
+        <sys_created_on>2010-04-13 00:21:51</sys_created_on>
+        <sys_id>f48b21db0a0a0ba700645a3f714ca7a2</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-02-18 08:11:55</sys_updated_on>
+        <time_zone/>
+        <zip>92110</zip>
+    </cmn_location>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>joe.wilmoth@snc</sys_created_by>
+        <sys_created_on>2018-02-07 16:27:12</sys_created_on>
+        <sys_id>800e8207db4c5b005c025a6adc96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6882 Linda Vista Road, San Diego,CA</sys_name>
+        <sys_package display_value="Manufacturing CMDB" source="x_pisn_mnfct_cmdb">0e9fbeabdba24b0085895845dc961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing CMDB">0e9fbeabdba24b0085895845dc961932</sys_scope>
+        <sys_update_name>sys_metadata_link_800e8207db4c5b005c025a6adc96199c</sys_update_name>
+        <sys_updated_by>joe.wilmoth@snc</sys_updated_by>
+        <sys_updated_on>2018-02-07 16:27:12</sys_updated_on>
+        <tablename>cmn_location</tablename>
+    </sys_metadata_link>
+</record_update>

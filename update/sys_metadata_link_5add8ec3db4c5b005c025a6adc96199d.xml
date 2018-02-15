@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0594ed7437d0200044e0bfc8bcbe5df0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="cmn_location">
+    <cmn_location action="INSERT_OR_UPDATE">
+        <city>Colombia</city>
+        <company display_value="ACME South America">227cdfb03710200044e0bfc8bcbe5d6b</company>
+        <contact/>
+        <country>Colombia</country>
+        <fax_phone/>
+        <full_name>Americas/South America/Colombia</full_name>
+        <lat_long_error/>
+        <latitude>4.570868</latitude>
+        <longitude>-74.297333</longitude>
+        <name>Colombia</name>
+        <parent display_value="South America">fa55153437d0200044e0bfc8bcbe5dd3</parent>
+        <phone/>
+        <phone_territory display_value="Colombia">04b7e002eb1201007128a5fc5206fe0e</phone_territory>
+        <state/>
+        <stock_room>false</stock_room>
+        <street/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2012-02-17 17:54:15</sys_created_on>
+        <sys_id>0594ed7437d0200044e0bfc8bcbe5df0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-11-11 14:40:22</sys_updated_on>
+        <time_zone/>
+        <zip/>
+    </cmn_location>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>joe.wilmoth@snc</sys_created_by>
+        <sys_created_on>2018-02-07 16:26:32</sys_created_on>
+        <sys_id>5add8ec3db4c5b005c025a6adc96199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Colombia</sys_name>
+        <sys_package display_value="Manufacturing CMDB" source="x_pisn_mnfct_cmdb">0e9fbeabdba24b0085895845dc961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing CMDB">0e9fbeabdba24b0085895845dc961932</sys_scope>
+        <sys_update_name>sys_metadata_link_5add8ec3db4c5b005c025a6adc96199d</sys_update_name>
+        <sys_updated_by>joe.wilmoth@snc</sys_updated_by>
+        <sys_updated_on>2018-02-07 16:26:32</sys_updated_on>
+        <tablename>cmn_location</tablename>
+    </sys_metadata_link>
+</record_update>

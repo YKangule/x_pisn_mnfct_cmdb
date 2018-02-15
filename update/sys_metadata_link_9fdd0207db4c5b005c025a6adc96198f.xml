@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>25ab89a60a0a0bb300c97e6b6e0361d3</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="cmn_location">
+    <cmn_location action="INSERT_OR_UPDATE">
+        <city>Calgary</city>
+        <company display_value="ACME North America">31bea3d53790200044e0bfc8bcbe5dec</company>
+        <contact/>
+        <country>Canada</country>
+        <fax_phone/>
+        <full_name>Americas/North America/Calgary/1800 194 Ave SE, Calgary,AB</full_name>
+        <lat_long_error/>
+        <latitude>50.8778119</latitude>
+        <longitude>-114.0289053</longitude>
+        <name>1800 194 Ave SE, Calgary,AB</name>
+        <parent display_value="Calgary">a23c49b037d0200044e0bfc8bcbe5dda</parent>
+        <phone/>
+        <phone_territory/>
+        <state>AB</state>
+        <stock_room>false</stock_room>
+        <street>1800 194 Ave SE, Calgary</street>
+        <sys_created_by>guest</sys_created_by>
+        <sys_created_on>2012-02-17 14:39:36</sys_created_on>
+        <sys_id>25ab89a60a0a0bb300c97e6b6e0361d3</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-02-18 08:51:35</sys_updated_on>
+        <time_zone/>
+        <zip/>
+    </cmn_location>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>joe.wilmoth@snc</sys_created_by>
+        <sys_created_on>2018-02-07 16:26:35</sys_created_on>
+        <sys_id>9fdd0207db4c5b005c025a6adc96198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1800 194 Ave SE, Calgary,AB</sys_name>
+        <sys_package display_value="Manufacturing CMDB" source="x_pisn_mnfct_cmdb">0e9fbeabdba24b0085895845dc961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing CMDB">0e9fbeabdba24b0085895845dc961932</sys_scope>
+        <sys_update_name>sys_metadata_link_9fdd0207db4c5b005c025a6adc96198f</sys_update_name>
+        <sys_updated_by>joe.wilmoth@snc</sys_updated_by>
+        <sys_updated_on>2018-02-07 16:26:35</sys_updated_on>
+        <tablename>cmn_location</tablename>
+    </sys_metadata_link>
+</record_update>

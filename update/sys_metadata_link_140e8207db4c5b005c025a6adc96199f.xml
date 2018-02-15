@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f48b220e0a0a0ba70072ca2371e4fb89</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="cmn_location">
+    <cmn_location action="INSERT_OR_UPDATE">
+        <city>San Diego</city>
+        <company display_value="ACME North America">31bea3d53790200044e0bfc8bcbe5dec</company>
+        <contact/>
+        <country>USA</country>
+        <fax_phone/>
+        <full_name>Americas/North America/California/San Diego/San Diego South Central/4862 39th Street, San Diego,CA</full_name>
+        <lat_long_error/>
+        <latitude>32.766156</latitude>
+        <longitude>-117.111564</longitude>
+        <name>4862 39th Street, San Diego,CA</name>
+        <parent display_value="San Diego South Central">f57cd1f80a0a0ba700d5c7b02128f141</parent>
+        <phone/>
+        <phone_territory/>
+        <state>CA</state>
+        <stock_room>false</stock_room>
+        <street>4862 39th Street, San Diego</street>
+        <sys_created_by>jay.berlin</sys_created_by>
+        <sys_created_on>2010-04-13 00:21:51</sys_created_on>
+        <sys_id>f48b220e0a0a0ba70072ca2371e4fb89</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-02-18 08:11:55</sys_updated_on>
+        <time_zone/>
+        <zip>92116</zip>
+    </cmn_location>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>joe.wilmoth@snc</sys_created_by>
+        <sys_created_on>2018-02-07 16:27:13</sys_created_on>
+        <sys_id>140e8207db4c5b005c025a6adc96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4862 39th Street, San Diego,CA</sys_name>
+        <sys_package display_value="Manufacturing CMDB" source="x_pisn_mnfct_cmdb">0e9fbeabdba24b0085895845dc961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing CMDB">0e9fbeabdba24b0085895845dc961932</sys_scope>
+        <sys_update_name>sys_metadata_link_140e8207db4c5b005c025a6adc96199f</sys_update_name>
+        <sys_updated_by>joe.wilmoth@snc</sys_updated_by>
+        <sys_updated_on>2018-02-07 16:27:13</sys_updated_on>
+        <tablename>cmn_location</tablename>
+    </sys_metadata_link>
+</record_update>

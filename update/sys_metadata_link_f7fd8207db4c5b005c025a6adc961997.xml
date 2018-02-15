@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f48b21850a0a0ba7004182b18099696d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="cmn_location">
+    <cmn_location action="INSERT_OR_UPDATE">
+        <city>San Diego</city>
+        <company display_value="ACME North America">31bea3d53790200044e0bfc8bcbe5dec</company>
+        <contact/>
+        <country>USA</country>
+        <fax_phone/>
+        <full_name>Americas/North America/California/San Diego/San Diego North/11251 Rancho Carmel Drive, San Diego,CA</full_name>
+        <lat_long_error/>
+        <latitude>32.983225</latitude>
+        <longitude>-117.081855</longitude>
+        <name>11251 Rancho Carmel Drive, San Diego,CA</name>
+        <parent display_value="San Diego North">f57dcbe40a0a0ba700f2c0654035f2c1</parent>
+        <phone/>
+        <phone_territory/>
+        <state>CA</state>
+        <stock_room>false</stock_room>
+        <street>11251 Rancho Carmel Drive, San Diego</street>
+        <sys_created_by>jay.berlin</sys_created_by>
+        <sys_created_on>2010-04-13 00:21:51</sys_created_on>
+        <sys_id>f48b21850a0a0ba7004182b18099696d</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-02-18 08:11:55</sys_updated_on>
+        <time_zone/>
+        <zip>92128</zip>
+    </cmn_location>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>joe.wilmoth@snc</sys_created_by>
+        <sys_created_on>2018-02-07 16:27:10</sys_created_on>
+        <sys_id>f7fd8207db4c5b005c025a6adc961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>11251 Rancho Carmel Drive, San Diego,CA</sys_name>
+        <sys_package display_value="Manufacturing CMDB" source="x_pisn_mnfct_cmdb">0e9fbeabdba24b0085895845dc961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing CMDB">0e9fbeabdba24b0085895845dc961932</sys_scope>
+        <sys_update_name>sys_metadata_link_f7fd8207db4c5b005c025a6adc961997</sys_update_name>
+        <sys_updated_by>joe.wilmoth@snc</sys_updated_by>
+        <sys_updated_on>2018-02-07 16:27:10</sys_updated_on>
+        <tablename>cmn_location</tablename>
+    </sys_metadata_link>
+</record_update>

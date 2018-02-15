@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>afe1460ddb08c340ca7ff72eaf961920</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="cmn_location">
+    <cmn_location action="INSERT_OR_UPDATE">
+        <city>Tokyo</city>
+        <company display_value="">81950c08dbef320064615665dc961974</company>
+        <contact/>
+        <country>Netherlands</country>
+        <fax_phone/>
+        <full_name>Brewery 2</full_name>
+        <lat_long_error/>
+        <latitude>52.1374634</latitude>
+        <longitude>4.5339783</longitude>
+        <name>Brewery 2</name>
+        <parent/>
+        <phone/>
+        <phone_territory/>
+        <state/>
+        <stock_room>false</stock_room>
+        <street>Burg. Smeetweg 1</street>
+        <sys_created_by>rob</sys_created_by>
+        <sys_created_on>2017-07-17 14:15:50</sys_created_on>
+        <sys_id>afe1460ddb08c340ca7ff72eaf961920</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>joe.wilmoth@snc</sys_updated_by>
+        <sys_updated_on>2018-02-07 16:25:41</sys_updated_on>
+        <time_zone/>
+        <zip/>
+    </cmn_location>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>joe.wilmoth@snc</sys_created_by>
+        <sys_created_on>2018-02-07 16:27:06</sys_created_on>
+        <sys_id>72fd8207db4c5b005c025a6adc96193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Brewery 2</sys_name>
+        <sys_package display_value="Manufacturing CMDB" source="x_pisn_mnfct_cmdb">0e9fbeabdba24b0085895845dc961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing CMDB">0e9fbeabdba24b0085895845dc961932</sys_scope>
+        <sys_update_name>sys_metadata_link_72fd8207db4c5b005c025a6adc96193e</sys_update_name>
+        <sys_updated_by>joe.wilmoth@snc</sys_updated_by>
+        <sys_updated_on>2018-02-07 16:27:06</sys_updated_on>
+        <tablename>cmn_location</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>1059cb53c6112275003052ce61c907e8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="cmn_location">
+    <cmn_location action="INSERT_OR_UPDATE">
+        <city>Raleigh</city>
+        <company display_value="ACME North America">31bea3d53790200044e0bfc8bcbe5dec</company>
+        <contact/>
+        <country>USA</country>
+        <fax_phone/>
+        <full_name>Americas/North America/North Carolina/Raleigh/Five Points 2009 Fairview RD, Raleigh, NC</full_name>
+        <lat_long_error/>
+        <latitude>35.80436</latitude>
+        <longitude>-78.64685</longitude>
+        <name>Five Points 2009 Fairview RD, Raleigh, NC</name>
+        <parent display_value="Raleigh">163c49b037d0200044e0bfc8bcbe5dd6</parent>
+        <phone/>
+        <phone_territory/>
+        <state>NC</state>
+        <stock_room>false</stock_room>
+        <street>2009 Fairview RD, Raleigh 
+</street>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2005-05-24 20:16:57</sys_created_on>
+        <sys_id>1059cb53c6112275003052ce61c907e8</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-02-18 09:04:06</sys_updated_on>
+        <time_zone/>
+        <zip>27609</zip>
+    </cmn_location>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>joe.wilmoth@snc</sys_created_by>
+        <sys_created_on>2018-02-07 16:26:33</sys_created_on>
+        <sys_id>fadd8ec3db4c5b005c025a6adc9619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Five Points 2009 Fairview RD, Raleigh, NC</sys_name>
+        <sys_package display_value="Manufacturing CMDB" source="x_pisn_mnfct_cmdb">0e9fbeabdba24b0085895845dc961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing CMDB">0e9fbeabdba24b0085895845dc961932</sys_scope>
+        <sys_update_name>sys_metadata_link_fadd8ec3db4c5b005c025a6adc9619a2</sys_update_name>
+        <sys_updated_by>joe.wilmoth@snc</sys_updated_by>
+        <sys_updated_on>2018-02-07 16:26:33</sys_updated_on>
+        <tablename>cmn_location</tablename>
+    </sys_metadata_link>
+</record_update>
